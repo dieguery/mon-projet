@@ -4,10 +4,10 @@ import Avatar from '../assets/images/photo-avatar-mini.jpg'
 const Profile = () => {
 
     const [myProfile, setMyProfile] = useState({
-        firstname: "David",
-        lastname: "Wils",
-        job: "Formateur ISTQB",
-        city: "Lille"
+        firstname: "Diegs",
+        lastname: "Kanté",
+        job: " Stagiaire ISTQB",
+        city: "Villeneuve"
     })
 
     const { firstname, lastname, job, city } = myProfile
